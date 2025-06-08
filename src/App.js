@@ -22,8 +22,8 @@ function App() {
       
      
       <nav className="navbar">
-        <Link className="navbar-brand" to="/">
-          UserMgmt
+        <Link className="navbar-brand text-white" to="/">
+          User Management
         </Link>
 
         <button className="navbar-toggle" onClick={() => setIsOpen(!isOpen)}>
